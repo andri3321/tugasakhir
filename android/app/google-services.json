@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "526810468740",
+    "project_id": "tugas2-383e4",
+    "storage_bucket": "tugas2-383e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526810468740:android:3389d83d931de96d398dd1",
+        "android_client_info": {
+          "package_name": "com.example.bisanih"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWiBB3ZcejY4NbghikxwULZT3uT57mdYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526810468740:android:d6c43fff34e75be1398dd1",
+        "android_client_info": {
+          "package_name": "com.example.tugasakhir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWiBB3ZcejY4NbghikxwULZT3uT57mdYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526810468740:android:2a9b54099062dbf5398dd1",
+        "android_client_info": {
+          "package_name": "com.example.tugaspam2firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWiBB3ZcejY4NbghikxwULZT3uT57mdYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
